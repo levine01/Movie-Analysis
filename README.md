@@ -1,15 +1,19 @@
 # Microsoft Movie Analysis
 
 ## Introduction
-Original Video content is gaining popularity and its  on the rise, in X year alone the gross income for the Movie industry was  X Milion USD and this is projected to increase over the years. This proposal intend to give a breakdown of the Movie industry for easy investment decision making. It will take an approach of synthesizing and analysing movies data on their ratings and viewership, gross income, and X using exploratory data analysis. Exploratory data analysis is ...... it involves a series of data analysis set such as.......... In this proposal we will use X, X, X series to analyse the data sets. The proposal will later come up with a conclusion on the analysis and a recommendation.
+Original Video/Movie content is gaining popularity and its on the rise, in X year alone the gross income for the Movie industry was  X Milion USD and this is projected to increase over the years. Microsoft was founded in 1975 with a mission to enable people and businesses throughout the world realize their potential through technology and transform the way people work, play and communicate. Microsoft develop products that deliver opportunities, convenience and enhances people value on earth. They operate worldwide in over 100 countries.
+
+Traditionally they operate in production and lincensing of software and hardware products such as computers, operating systems et with an aim of enhancing people's lives. Lately the rise of Video/ Movie content necessitate the need for Microsoft to venture into the industry with an aim of delivering quality,inspiring and inciteful content to it's users.
+
+This proposal intend to give a breakdown of the Movie industry for easy investment decision making. It will take an approach of synthesizing and analysing movies data on their ratings and viewership, gross income, and X using exploratory data analysis. Exploratory data analysis is ...... it involves a series of data analysis set such as.......... In this proposal we will use X, X, X series to analyse the data sets. The results of this proposals will provide valuable insights into the dynamics of the Movie industry and inform investors decisions.  
 
 
 ## Problem statement
-Informed strategic business decisons are made through data analysis and trends.Interpreting the existing information through a critical analysis to come up with a concrete recommendation is key.  
-The Movie/video industry is booming and 
+The rise of the movie industry is a powerful force that needs to be explored by Microsoft company. To make Informed strategic business decisons greatly depend on data analysis and trends, Interpreting the existing information through a critical analysis and coming up with a concrete recommendation. The use of data analysis is a great tool to predict the sustainabilty of businesses and different businesses of the industry to inevest. It gives a   
 
 ## Main objective
 The main objective of this project is to generate insights that can be used to make informed business decisions. These insights can help stakeholders identify trends, patterns, and relationships in the data that may not be immediately apparent. By analyzing the data, you can identify areas where improvements can be made and opportunities for growth.
+
 
 ## Specific objectives
 - Understand the contents ofe eache dataset
