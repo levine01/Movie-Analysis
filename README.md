@@ -1,11 +1,12 @@
 # Microsoft Movie Analysis
 
 ## Introduction
-This project will involve analyzing movie ratings, movie basics, and gross income using exploratory data analysis to generate insights for a business stakeholder.The main goal of this analysis is to provide the stakeholder with actionable insights that can be used to make bussiness decisions.
+Original Video content is gaining popularity and its  on the rise, in X year alone the gross income for the Movie industry was  X Milion USD and this is projected to increase over the years. This proposal intend to give a breakdown of the Movie industry for easy investment decision making. It will take an approach of synthesizing and analysing movies data on their ratings and viewership, gross income, and X using exploratory data analysis. Exploratory data analysis is ...... it involves a series of data analysis set such as.......... In this proposal we will use X, X, X series to analyse the data sets. The proposal will later come up with a conclusion on the analysis and a recommendation.
 
 
 ## Problem statement
-The movie industry is highly competitive and it is important for companies to make informed bussiness decisions in order to stay ahead of the competion.In this project, we will be analyzing various 
+Informed strategic business decisons are made through data analysis and trends.Interpreting the existing information through a critical analysis to come up with a concrete recommendation is key.  
+The Movie/video industry is booming and 
 
 ## Main objective
 The main objective of this project is to generate insights that can be used to make informed business decisions. These insights can help stakeholders identify trends, patterns, and relationships in the data that may not be immediately apparent. By analyzing the data, you can identify areas where improvements can be made and opportunities for growth.
@@ -24,4 +25,4 @@ Some movies have high domestic gross while others very low gross which is iinflu
  Bar charts are easily understandable when it comes to getting to understand data.
 
 ## Recommendations
-The company to invest 
+The company to invest in X
