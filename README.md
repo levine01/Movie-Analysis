@@ -32,7 +32,6 @@ The main objective of this project is to generate insights that will be used to 
 
 
 ## Recommendations
-# 7.Recommendation
 Increase the production budget for movies to increase gross income.
 Focus on producing more original content to appeal to audiences.
 Consider producing more movies in the action, adventure, and comedy genres.
