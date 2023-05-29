@@ -1,4 +1,5 @@
 # Microsoft Movie Analysis
+https://www.canva.com/design/DAFkOUo_ero/5ugSDtRb7mTqrCLpOribxQ/edit?utm_content=DAFkOUo_ero&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Introduction
 Original Video/Movie content is gaining popularity and its on the rise, in 2018 alone the gross income for the Movie industry was 93670000 Milion USD and this is projected to increase over the years. Microsoft was founded in 1975 with a mission to enable people and businesses throughout the world realize their potential through technology and transform the way people work, play and communicate. Microsoft develop products that deliver opportunities, convenience and enhances people value on earth. They operate worldwide in over 100 countries.
@@ -37,3 +38,5 @@ Focus on producing more original content to appeal to audiences.
 Consider producing more movies in the action, adventure, and comedy genres.
 Improve the quality of movies to increase their average rating.
 Invest in movie genres that are more profitable.
+
+
