@@ -15,12 +15,12 @@ The rise of the movie industry is a powerful force that needs to be explored by 
 The main objective of this project is to generate insights that will be used to make informed business decisions. These insights will provide stakeholders with knowledge to identify trends, patterns, and relationships in the datasets that may not be immediately apparent. By analyzing the data, we will identify areas where improvements can be made and opportunities for growth.
 
 
-## d) Specific objectives
-- Analyze the relationship between movie genres and gross income.
-- Investigate the relationship between production budget and gross income.
-- Determine the most popular movie genres.
-- Analyze the average rating of movies.
-- Identify trends in the data that may not be immediately apparent.
+## Specific objectives
+- To Analyze the relationship between movie genres and gross income.
+- To Investigate the relationship between production budget and gross income.
+- To Determine the most popular movie genres.
+- To Analyze the average rating of movies.
+- To Identify trends in the data that may not be immediately apparent.
 
 ## Conclusions
 - Certain movie genres are more profitable than others.
